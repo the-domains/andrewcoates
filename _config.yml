@@ -1,7 +1,7 @@
 name: Andrewcoates
 favicon: null
 layout_spectrum: 0.25459
-typography_spectrum: 0.6296869006473571
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.2718231847975403
-  lightness: 0.14368588640354574
-  saturation: 0.4811991744209081
-  rhythmicContrast: 0.7502579486463219
+    - '#ffffff'
+    - '#17a599'
+    - '#cd0835'
+    - '#2e0f17'
+    - '#f97d01'
+  brandStrength: 0.5
+  lightness: 0.125
+  saturation: 0.5625
+  rhythmicContrast: 0.75
 purpose: []
