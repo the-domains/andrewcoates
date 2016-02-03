@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Andrewcoates]]></title>
         <description><![CDATA[Andrewcoates]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/andrewcoates/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 06:03:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 06:27:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/andrewcoates/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A God of order not of chaos]]></title>
+            <description><![CDATA[<article><h1>A God of order not of chaos</h1><p>God hovered the darkness... the chaos, and he spoke light into existence. He wanted to give clarity and poise to that which was formless and void, he wanted to being illumination and insight. Light does that. God does that.</p></article>]]></description>
+            <link>https://thegrid.ai/andrewcoates/a-god-of-order-not-of-chaos/index.html</link>
+            <guid isPermaLink="false">ef22a033-674d-4681-b1c8-2630c59cab8a</guid>
+            <pubDate>Wed, 03 Feb 2016 06:27:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Seeds & Bread]]></title>
             <description><![CDATA[<article><h1>Seeds & Bread</h1><p>The Lord gives bread to eat and seed to sow. Be careful that you don't eat your seed nor sow your bread. Giving away what was meant for your nourishment is foolish albiet generous, you need to know when to knead your dough just as much as you need to know when to give it away.</p></article>]]></description>
-            <link>undefinedseeds-and-bread/index.html</link>
+            <link>https://thegrid.ai/andrewcoates/seeds-and-bread/index.html</link>
             <guid isPermaLink="false">a28931f5-ffee-4e6d-9982-f0d8850e484c</guid>
             <pubDate>Wed, 03 Feb 2016 06:03:09 GMT</pubDate>
         </item>
